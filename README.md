@@ -8,8 +8,8 @@ Source code with samples about Electron
 
 To restore the packages:
 
-**npm install restore**
+> **npm install restore**
 
 To execute the app:
 
-**npm start**
+> **npm start**
